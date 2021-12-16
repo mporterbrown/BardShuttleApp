@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Helvetica';
+    background-color: #B80000;
+}
+
+.Banner {
+    padding-top: 20px;
+}
+
+.Banner h1 {
+    font-size: 50px;
+    color: white;
+    text-decoration: solid;
+    -webkit-text-stroke: 2px black;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    padding-top: 25px;
+}
+
+button:hover {
+    color: red;
+}
+
+
+p {
+    margin-bottom: 0px;
+}
+
+.footerInfo {
+    height: 300px;
+}
+
+.buttonsDisplay {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background: #FFFFFF;
+    cursor: pointer;
+    font-size: 100%;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    transition: 500ms;
+    height: 600px;
+}
+
+.reset{
+    position:absolute;
+    top:70%;
+    right: 34.5%;
+    width: 120px;
+    transform: translateY(-50%);
+}
+
+.submit{
+    position:absolute;
+    top:70%;
+    left: 34.5%;
+    width: 120px;
+    transform: translateY(-50%);
+}
+
+
+.footerInfo {
+    height: 750px;
+    font-weight: bold;
+    font-size: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.tripResults {
+    padding-left: 335px;
+}
