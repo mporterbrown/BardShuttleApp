@@ -196,10 +196,12 @@ class BusList extends Component {
             </div>
             <br></br>
             <div className = 'submit_reset'>
+            <div className='submit'><center><button style={resetBtn} onClick = {() => this.renderResults(this.state.origin, this.state.destination)}>Submit</button></center></div>
             <div className='reset'><center><button style={resetBtn} onClick = {()=> this.resetStops()}>Reset</button></center></div>
                 
-                <div className='submit'><center><button style={resetBtn} onClick = {() => this.renderResults(this.state.origin, this.state.destination)}>Submit</button></center></div>
             </div>
+            <br></br>
+            <br></br>
                 <div className = 'footerInfo'> 
                     <div>
                         <h2><center>Next Available Trip:</center></h2>         
