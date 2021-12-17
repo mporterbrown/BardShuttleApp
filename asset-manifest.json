@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BardShuttleApp/static/css/main.0953cef6.chunk.css",
+    "main.js": "/BardShuttleApp/static/js/main.8bf23ba9.chunk.js",
+    "main.js.map": "/BardShuttleApp/static/js/main.8bf23ba9.chunk.js.map",
+    "runtime-main.js": "/BardShuttleApp/static/js/runtime-main.3fb7006e.js",
+    "runtime-main.js.map": "/BardShuttleApp/static/js/runtime-main.3fb7006e.js.map",
+    "static/js/2.628167c9.chunk.js": "/BardShuttleApp/static/js/2.628167c9.chunk.js",
+    "static/js/2.628167c9.chunk.js.map": "/BardShuttleApp/static/js/2.628167c9.chunk.js.map",
+    "index.html": "/BardShuttleApp/index.html",
+    "static/css/main.0953cef6.chunk.css.map": "/BardShuttleApp/static/css/main.0953cef6.chunk.css.map",
+    "static/js/2.628167c9.chunk.js.LICENSE.txt": "/BardShuttleApp/static/js/2.628167c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fb7006e.js",
+    "static/js/2.628167c9.chunk.js",
+    "static/css/main.0953cef6.chunk.css",
+    "static/js/main.8bf23ba9.chunk.js"
+  ]
+}
